@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Launching</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <img src="purple.jpg">
+    <div id="container">
+        <nav>
+        <ul>
+        <li><a href="#">Home</a></li>
+        <select name= services id="services">
+        <option value=="FrontEnd Developer">FrontEnd Developer</option>
+        <option value="BackEnd Developer">BackEnd Developer</option>
+        <option value="UIUX">UI/UX</option> 
+        <option value="Cybersecurity">Cybersecurity</option>
+        <option value="graphics">Graphics Design</option>
+        <option value="it sales">IT Sales</option>
+        <option value="devops">Devops</option>
+        </select>
+        <li><a href="#">About</a></li>
+        <li><a href="#">FAQ</a></li>
+        <li><a href="#">ORDER NOW</a></li>
+        </ul>
+        </nav>
+    </div>
+    <div class="class">
+    <h1>VIRTUAL REALITY EXPERIENCE</h1>
+    <main>
+        <p>By addition addition horrible sensible goodness two contempt.Evening for married his account removal.Estimatable me disposing of be moonlight cordially curiosity</p>
+    </main>
+    <sale class="sale">
+        <h5><span>ORDER NOW</span></h5>
+        <h3>STARTING AT $199</h3>
+    </sale>
+    <img src="humanvr.jpg"
+
+    </div>
+<footer id="footer">
+    <h2>Foolish Develoer</h2>
+    <p>Foolish developer is a blog website where you will great tutorials on web designing and development.Here each tutorial is beautifully described step by step with the required source code.</P>
+    <a href="www.facebook.com"><img src="facebook.png"></a>
+    <a href="www.twitter.com"><img src="twitter.jpg"></a>
+    <a href="www.google.com"><img src="google.jpg"></a>
+    <a href="www.linkedin.com"><img src="linkedin.jpg"></a>
+
+    <bottom id="bottom">
+       <p>copyright@2023<a href="#">FoolishDeveloper</a><p>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+        <a href="#">Blog</a>
+    </bottom>
+</footer>
+</body>
+</html>
